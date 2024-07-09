@@ -1,10 +1,11 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(›ˆ¦ï8¶µÏÆ‰2J$d48a56be-7351-44ef-b366-267bfaaaeca2
-›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëûÒ8·µÏÆ‰2J$a3ae62de-9f07-4892-907e-13f215c831e4
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(›ˆ¦ï8¶µÏÆ‰2J$969f93a0-b165-492e-808d-2762d1f1a709
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëûÒ8·µÏÆ‰2J$0a18a9ba-8c4b-4d36-8632-a6989f50031a
 †
-java:S1596V">Replace "Collections.EMPTY_LIST" by "Collections.emptyList()".(÷ƒ¨öúÿÿÿÿ8·µÏÆ‰2J$5b3db7e7-b483-4d0b-ba22-d441da4d134b
+java:S1596V">Replace "Collections.EMPTY_LIST" by "Collections.emptyList()".(÷ƒ¨öúÿÿÿÿ8·µÏÆ‰2J$c04be542-09b7-4679-894b-dec70c5f89fa
 ¤
-java:S14884"\Immediately return this expression instead of assigning it to the temporary variable "list".(ËóÑ¦ÿÿÿÿÿ8·µÏÆ‰2J$f6fde0bc-a5a4-45db-8c77-a3421f3c8780
+java:S14884"\Immediately return this expression instead of assigning it to the temporary variable "list".(ËóÑ¦ÿÿÿÿÿ8·µÏÆ‰2J$ff7c96ce-2da4-4d36-ace8-da48d1957035
 Ÿ
-java:S1488B"\Immediately return this expression instead of assigning it to the temporary variable "user".(³˜–ø8·µÏÆ‰2J$bfe44bcc-5de0-4d4b-b6c1-fe7493e2e53a
-m	java:S106)"+Replace this use of System.out by a logger.(£ÆÏÁ8ÃµÏÆ‰2J$0ef9ed73-37dd-4334-a8bb-419a83120a2b
+java:S1488B"\Immediately return this expression instead of assigning it to the temporary variable "user".(³˜–ø8·µÏÆ‰2J$f6fe085c-d838-4f46-a9b8-5999e37a0faa
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(åè°’øÿÿÿÿ8çŽÈ‰2J$7876dae4-47db-4629-aab9-62118fb61f55
+m	java:S106)"+Replace this use of System.out by a logger.(£ÆÏÁ8ÃµÏÆ‰2J$783a1da1-1f2f-47fb-ba60-aead779d9924

@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a135f244-3ce3-47c6-98e5-9605a73f64be" name="Changes" comment="MAIL SERVICES FOR SENDING MAIL IN JAVA">
-      <change afterPath="$PROJECT_DIR$/DockerFile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/User/Entity/Department.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/User/Entity/Employee.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/User/Entity/UserDO.java" afterDir="false" />
@@ -15,7 +14,6 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/User/Utils/Player.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/User/Utils/ResourceNotFoundException.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/User/Utils/Team.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/User/Configuration/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/User/Configuration/ApplicationConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/User/Entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/User/Entity/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/User/ExceptionHandling/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/User/ExceptionHandling/GlobalExceptionHandler.java" afterDir="false" />
@@ -69,25 +67,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UserApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.User [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.User [compile].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.User [install].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.User [package].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.User [test].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.User [validate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;FEATURE__TEST&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/anishsrivastava/Downloads/User&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Unnamed.executor": "Run",
+    "Application.UserApplication.executor": "Run",
+    "Maven.User [clean].executor": "Run",
+    "Maven.User [compile].executor": "Run",
+    "Maven.User [install].executor": "Run",
+    "Maven.User [package].executor": "Run",
+    "Maven.User [test].executor": "Run",
+    "Maven.User [validate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "FEATURE__TEST",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/anishsrivastava/Downloads/user-service/User",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn package" />
