@@ -1,0 +1,7 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ƒ…İûÿÿÿÿ8ˆ‘Õ‡‚2
+r	java:S114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ï×–³ùÿÿÿÿ8‰‘Õ‡‚2
+L
+java:S1197"*Move the array designators [] to the type.(“Œ‚ûÿÿÿÿ8ƒ‰º’‚2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8»ô¹’‚2

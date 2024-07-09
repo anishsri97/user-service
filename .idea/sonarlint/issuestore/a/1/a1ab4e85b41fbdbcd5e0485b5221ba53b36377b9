@@ -1,0 +1,8 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´Ìİ¢ÿÿÿÿÿ8™êÒç†2J$4a3b6ee9-ecb9-4cba-9bc3-077fcff81d69
+y
+java:S1128"7Remove this unused import 'jakarta.persistence.Column'.(Ó‰ÙE8ßµ­ì†2J$3349c6ab-8687-4e68-b9a4-f9930640525a
+~
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ8ßµ­ì†2J$fe1834a7-5c42-4c21-95ad-2fd5894af74c
+x
+java:S1128"5Remove this unused import 'lombok.NoArgsConstructor'.(¸¨›8ßµ­ì†2J$6b27b312-86fb-4dfa-807d-04a6c354843f

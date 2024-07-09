@@ -1,0 +1,10 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(›ˆ¦ï8¶µÏÆ‰2J$d48a56be-7351-44ef-b366-267bfaaaeca2
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëûÒ8·µÏÆ‰2J$a3ae62de-9f07-4892-907e-13f215c831e4
+†
+java:S1596V">Replace "Collections.EMPTY_LIST" by "Collections.emptyList()".(÷ƒ¨öúÿÿÿÿ8·µÏÆ‰2J$5b3db7e7-b483-4d0b-ba22-d441da4d134b
+¤
+java:S14884"\Immediately return this expression instead of assigning it to the temporary variable "list".(ËóÑ¦ÿÿÿÿÿ8·µÏÆ‰2J$f6fde0bc-a5a4-45db-8c77-a3421f3c8780
+Ÿ
+java:S1488B"\Immediately return this expression instead of assigning it to the temporary variable "user".(³˜–ø8·µÏÆ‰2J$bfe44bcc-5de0-4d4b-b6c1-fe7493e2e53a
+m	java:S106)"+Replace this use of System.out by a logger.(£ÆÏÁ8ÃµÏÆ‰2J$0ef9ed73-37dd-4334-a8bb-419a83120a2b

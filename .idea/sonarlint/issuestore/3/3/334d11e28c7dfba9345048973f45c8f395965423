@@ -1,0 +1,9 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(þ‰ÁøÿÿÿÿÿJ$06e0ad10-1e75-442a-a86f-919a34cda1a4
+‹
+java:S2166
+"CRename this class to remove "Exception" or correct its inheritance.(»‹Æ´ÿÿÿÿÿ8äœ¾ç†2J$700df3d2-b351-4fd0-a314-e7fd38b54f15
+h
+java:S1165" Make this "message" field final.(ù„è¿ûÿÿÿÿ8ðœÁç†2J$e9fb9159-d5de-4b10-8b54-b97c49dd4ea2
+b
+java:S1165"Make this "status" field final.(šÞÇ²8ñœÁç†2J$b59907cd-9e1d-4482-ba90-a307a4036668

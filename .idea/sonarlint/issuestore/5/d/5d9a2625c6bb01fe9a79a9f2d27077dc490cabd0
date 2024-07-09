@@ -1,0 +1,8 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´Ìİ¢ÿÿÿÿÿ8†¿é†2J$d0827498-1d83-4acd-81cd-5bfdc748296f
+˜	java:S116"QRename this field "mob_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ì©ˆüÿÿÿÿ8‡¿é†2J$0c3fb64d-54ee-4d3a-b092-85ab6be75c64
+~	java:S125!"<This block of commented-out lines of code should be removed.(‰ÃéÏ8ÎŸ’é†2J$fbdced00-ed71-4723-accc-181b2f547f8c
+x
+java:S1128"5Remove this unused import 'lombok.NoArgsConstructor'.(¸¨›8å¡ü²‰2J$a212bcec-dab9-4242-824a-ac0add0e6e26
+ƒ
+java:S1128";Remove this unused import 'lombok.RequiredArgsConstructor'.(ÑØúøÿÿÿÿ8å¡ü²‰2J$1e83588a-7720-413e-b26f-4e7b27fe5419

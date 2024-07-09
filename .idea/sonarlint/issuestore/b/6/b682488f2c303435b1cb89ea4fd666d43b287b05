@@ -1,0 +1,7 @@
+
+“	java:S114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‡¡Ì 8â—Ší†2J$887492c2-4aa8-43a6-8c7d-a8e2422e5759
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ƒ…Ýûÿÿÿÿ8â—Ší†2J$5fbc3995-675a-4baa-b1b6-e85ea9294946
+
+java:S1128"<Remove this unused import 'com.example.User.Entity.UserDTO'.(æØ¤á8£ü²‰2J$e129d7bf-515e-443e-a0a0-0f86aa750039
+s
+java:S1128	"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ïÊÎÆ‰2J$177f919e-c7f6-4215-abde-828c6c20dfcc
